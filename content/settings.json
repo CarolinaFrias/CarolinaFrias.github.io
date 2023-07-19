@@ -1,34 +1,35 @@
 {
   "siteMetadata": {
-    "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
-    "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-    "author": "Konstantin Münster",
+    "language": "pt",
+    "siteUrl": "https://carolinafrias.github.io/",
+    "title": "BoKnit Design",
+    "titleTemplate": "%s · BoKnit Design",
+    "description": "A collection of knitting designs and thoughs.",
+    "author": "Carolina Frias",
     "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "bio": "Lot's of detail about BoKnit.",
     "social": {
       "behance": "https://behance.com",
       "github": "https://github.com/konstantinmuenster",
       "medium": "https://konstantinmuenster.medium.com",
+      "youtube": "https://www.youtube.com/@BoKnit",
       "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
       "mail": "mailto:mail@konstantin.digital"
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "image": "../content/images/LogoSemFundoSemBorders.png", "imageDark": "/images/LogoSemFundoSemBorders.png" },
     "navigation": {
       "header": [
-        { "label": "About", "url": "/#about" },
-        { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" },
-        { "label": "Github", "url": "/#github" }
+        { "label": "Sobre Mim", "url": "/#about" },
+        { "label": "Tutoriais", "url": "/blog" },
+        { "label": "Youtube", "url": "/#features" }
+        
       ],
       "ctaButton": {
         "openNewTab": true,
-        "label": "Resume",
-        "url": "/resume.pdf"
+        "label": "Ravelry",
+        "url": "https://www.ravelry.com/designers/carolina-frias"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
@@ -37,7 +38,7 @@
     },
     "featureToggles": {
       "useDarkModeAsDefault": false,
-      "useDarkModeBasedOnUsersPreference": true,
+      "useDarkModeBasedOnUsersPreference": false,
       "useCookieBar": false
     }
   }

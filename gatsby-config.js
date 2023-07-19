@@ -1,3 +1,7 @@
+require("dotenv").config({
+  path: `.env`,
+});
+
 module.exports = {
   plugins: [
     {
@@ -23,6 +27,14 @@ module.exports = {
         //     anonymize: true, // Default true
         //     environments: ["production", "development"] // Default ["production"]
         // }
+      },
+    },
+    {
+      resolve: `gatsby-source-youtube-v3`,
+      options: {
+        channelId: ["UCEr3qoCE0ZMlYZnVx-ZMc5g"],
+        apiKey: process.env.YT_API_KEY,
+        maxVideos: 3, // Defaults to 50
       },
     },
   ],

@@ -1,14 +1,12 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: "../../images/LogoSemFundo.png"
+imageAlt: "Sobre Mim"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+Chamo-me Carolina e sou uma youtuber e designer de modelos em tricô.
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+Aprendi a tricotar desde nova, mas só recentemente descobri a paixão por criar as minhas próprias peças. "BoKnit" é a minha página e a identidade que criei neste mundo do tricô onde pretendo partilhar com vocês através dos meus vídeos e das minhas peças uma personalidade clássica, mas contemporânea e onde o tricô é divertido!
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
+Podem adquirir os meus modelos através do Ravelry e acompanhar o progresso de cada peça através do Youtube.
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+Se quiserem ser os primeiros a saber das novidades que vou lançando subscrevam a minha mailing list.
